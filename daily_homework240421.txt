@@ -1,3 +1,0 @@
-1. Tạo pull request
-2. Khi merge BranchB vào Branch A thì lịch sử commit là: 
-        commit1-commit2-commit3-commmit4

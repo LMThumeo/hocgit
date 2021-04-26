@@ -1,2 +1,2 @@
--Nếu có xung đột thì xử lí xung đột trước khi merge
-- lịch sử commit của branchA sau khi merge là : commit1-commit2-commit3-commit4
+-nếu có xung đột thì phải xử lí xung đột trước
+-lịch sử branchA sau khi merge: commit1-commit2-commit3-commit4
