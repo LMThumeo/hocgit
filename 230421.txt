@@ -1,0 +1,12 @@
+Giống:
+    đều được sử dụng để chuyển nhánh, tạo nhánh mới và chuyển luôn sang nhánh đó
+Khác:
+    git checkout: 
+        chuyển nhánh: git checkout <branch>
+        tạo nhánh mới và chuyển sang nhánh đó: git checkout -b <new branch>
+        sử dụng phổ biến hơn
+        có thể sử dụng để phục hồi
+    git switch
+        chuyển nhánh: git switch <branch>
+        tạo nhánh mới và chuyển sang nhánh đó: git switch -c <new branch>
+        ít sử dụng hơn
