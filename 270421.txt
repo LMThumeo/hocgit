@@ -1,0 +1,6 @@
+2.1
+    commit merge được log trên nhánh branchA
+2.2
+    Git log ở branchA: thứ tự các commit phụ thuộc vào thời gian xuất hiện của các commit 2-3-4.
+    Nếu commit2 trên branchA xuất hiện trước commit3-4 trên branchB thì git log trên branchA là commit2-3-4.
+    Nếu commit2 trên branchA xuất hiện sau commit3-4 trên branchB thì git log trên branchA là commit3-4-2.
