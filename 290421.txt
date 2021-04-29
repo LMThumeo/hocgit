@@ -1,0 +1,9 @@
+
+create a merge commit:
+	mặc định khi merge pull request
+	tất cả các commit được thêm vào nhánh chính và sẽ có một merge commit
+squash and merge:
+	tất cả các commit sẽ được gộp lại thành 1 commit và mergr vào nhánh mặc định
+rebase and merge:
+	toàn bộ các commit từ nhánh feature và nhánh head được thêm vào nhánh base 1 cách riêng rẽ mà không có 1 merge commit nào
+tất cả các tùy chọn này đều cần quyền write trong repo
