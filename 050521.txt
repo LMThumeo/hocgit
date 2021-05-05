@@ -1,0 +1,27 @@
+1. What: OOP là gì?
+   -	Lập trình hướng đối tượng (Object Oriented Programming) là một kĩ thuật lập trình cho phép lập trình viên tạo ra các đối tượng trong code trừu tượng hóa các đối tượng
+   -	Đối tượng gồm 2 thông tin:
+	+	Thuộc tính: là các thông tin đặc điểm của đối tượng
+	+	Phương thức: Là các thao tác hành động mà đối tượng đó có thể thực hiện
+   -	Lớp: là một kiểu dữ liệu bao gồm các thuộc tính và các phương thức được định nghĩa từ trước. Lớp là sự trừu tượng của các đối tượng. Lớp bao gồm các phương thức và thuộc tính
+   -	Đặc điểm:
+	+	Tính đóng gói
+	+	Tính kế thừa
+	+	Tính đa hình
+	+	Tính trừu tượng
+2. Where: OOP được sử dụng phổ biến trong ngôn ngữ nào?
+   Phổ biến trong: Java, C++, PHP, Python, JavaScript...
+3. When: Khi nào áp dụng OOP?
+	Khi thực hiện một project có quy mô, gồm nhiều đối tượng, cần bổ sung và phát triển thêm về sau
+4. Why: Tại sao nên sử dụng OOP?
+   OOP có nhiều ưu điểm như:
+   -	Loại bỏ được những chương trình bị lặp và dư thừa nên có thể tối ưu và tái sử dụng code hiệu quả.
+   -	Rút ngắn thời gian xây dựng hệ thống, tăng năng suất thực hiện.
+   -	Khái niệm lớp và đối tượng giúp biểu diễn tốt hơn thế giới thực trên máy tính.
+5. Who: Ai sẽ sưe
+	Các lập trình viên đều cần đến OOP
+6. How: Vận dụng OOP như thế nào?
+   -	Xác định các đối tượng cho bài toán
+   -	Xác định thuộc tính, phương thức cho lớp
+   -	Xác định mối quan hệ giữa các lớp
+   => OOP tập trung vào lớp và đối tượng
