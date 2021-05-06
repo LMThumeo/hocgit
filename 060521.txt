@@ -1,0 +1,5 @@
+Sau khi fix lỗi thì nhánh hotfix sẽ được merge vào cả 4 nhánh:
+    Master: nhánh này cần được merge vì lỗi được báo cáo từ người dùng thuộc nhánh này. 
+            master sẽ được ưu tiên merge trước vì cần khắc phục lỗi ngay cho người dùng
+    Develop: merge vào nhánh này để lập trình viên biết được đã code đã sửa những gì, tránh việc sau nàu phát triển thêm các tính năng sẽ gặp xung đột
+    Canary và Staging: cần merge cả vào 2 nhánh này để loại bỏ được lỗi tồn tại, khiến chúng không ảnh hưởng tới những người dùng các phiên bản này và không ảnh hưởng tới các tính năng mới được đẩy lên từ Develop (nếu có)
