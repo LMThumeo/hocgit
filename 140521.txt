@@ -1,0 +1,36 @@
+*   Cơ sở dữ liệu là gì:
+    -   cơ sở dữ liệu của một hay nhiều lĩnh vực ứng dụng, được tổ chức theo một cấu trúc nhất định,
+        sao cho các chương trình máy tính có thể khai thác, nhằm phục vụ nhiều người sử dụng.
+    -   hệ quản trị cơ sở dữ liệu: 
+        +   một phần mềm cho phép tạo lập các CSDL cho các ứng dụng khác nhau và điều khiển mọi truy cập tới các CSDL đó. 
+        +   đối với CSDL, hệ quản trị CSDL cho phép:
+                định nghĩa (xác định kiểu, cấu trúc, ràng buộc dữ liệu)
+                tạo lập (lưu trữ dữ liệu trên các thiết bị nhớ)
+                thao tác (truy vấn, cập nhật, kết xuất, ...) 
+*   Các mức thể hiện:
+    -   Mức khunh hình: là phần dữ liệu trong cơ sở dữ liệu mà chúng ta cần sử dụng, chỉ quan tâm đến phần chúng ta cần thôi.
+    -   Mức Logic ( hay là mức khái niệm): là mức này sẽ liệu kê được những gì được lưu trong CSDL và liên kết giữa chúng như thế nào
+    -   Mức vật lý: thiết bị cứng để lưu trữ dữ liệu, hiểu đơn giản là phần cứng như ổ đĩa. 
+*   Lợi ích:
+    -   Lưu trữ thông tin có hệ thống.
+    -   Đảm bảo an toàn dữ liệu.
+    -   Có thể phục vụ nhiều người cùng truy cập tại 1 thời điểm.
+    -   Quản lý dữ liệu dễ dàng: tránh trùng lặp dữ liệu. 
+    -   Lưu dữ liệu thành dạng các bảng(table) -> xem dữ liệu dễ dàng hơn. 
+    -   Tách biệt giữa các chương trình.
+    -   Có thuộc tính ACID. 
+*   Một vài khái niệm cơ bản:
+    -   Khóa chính: để định danh mỗi bản ghi trong bảng là duy nhất
+    -   Khóa ngoại: được xem như con trỏ trỏ tới khóa chính của bảng khác
+    -   Thuộc tính: là các đặc tính riêng biệt của đối tượng cần quản lí
+    -   Thuộc tính dẫn xuất: là thuộc tính có thể tính toán ra tự các thuộc tính khác
+    -   Bảng: lưu trữ thông tin của đối tượng theo các bản ghi và thuộc tính
+    -   Bản ghi: là 1 hàng trong bảng
+    -   Query: dùng để truy vấn dữ liệu
+*   Sử dụng hệ quản trị cơ sở dữ liệu:
+    -   Cấu trúc dữ liệu và tạo bảng
+    -   Truy vấn
+    -   Biểu mẫu, báo cáo.
+    
+
+
